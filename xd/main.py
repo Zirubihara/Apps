@@ -1,4 +1,4 @@
-from piasek import *
+from xd.piasek import *
 import sys
 import pygame
 
